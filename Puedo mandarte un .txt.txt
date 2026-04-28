@@ -1,3 +1,8 @@
 ¿Puedo mandarte un .txt?
+<<<<<<< HEAD
 goñpñpnhjñelkjhgñerhgbneohç
 me aburrooooooooooooooooooooooooo
+=======
+Creo que sí, honestamente 
+O no, no ze
+>>>>>>> 406c3b9e1aab52a4968778f699b38af7146b346b
